@@ -8,12 +8,9 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^3.0.4",
-    "next": "^14.0.4",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "lucide-react": "^0.298.0",
-    "tailwind-merge": "^2.1.0",
-    "tailwindcss-animate": "^1.0.7"
+    "lucide-react": "^0.298.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -42,7 +39,6 @@
   "name": "smans-v2",
   "version": "1.0.0",
   "description": "This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.",
-  "main": "postcss.config.js",
   "author": "",
   "license": "ISC"
 }
